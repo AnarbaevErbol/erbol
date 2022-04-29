@@ -15,6 +15,8 @@ public class App
         Student student1 = new Student("Mars", 23);
         create(student);
         create(student1);
+
+        System.out.println(student);
     }
 
 
